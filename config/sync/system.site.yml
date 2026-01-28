@@ -4,7 +4,7 @@ langcode: en
 uuid: a9055bff-4dad-4642-b2d4-620b9cc7a97f
 name: 'Drupal Local Test'
 mail: admin@example.com
-slogan: ''
+slogan: 'Updated site slogan!'
 page:
   403: ''
   404: ''

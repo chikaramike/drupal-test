@@ -1,0 +1,37 @@
+# OS / IDE
+.DS_Store
+.vscode/
+.idea/
+
+# Vendor
+/vendor/
+
+# DDEV
+.ddev/.dbimageBuild
+.ddev/.ddev-docker-compose*
+.ddev/.ddev-gitpod*
+.ddev/.ddev-mutagen*
+
+# Drupal files
+/web/sites/*/files/
+
+# Local settings
+/web/sites/*/settings.local.php
+
+# Environment files
+.env
+.env.*
+
+# Logs
+*.log
+
+/vendor/
+
+web/core/
+web/modules/contrib/
+web/themes/contrib/
+web/themes/core/
+web/libraries/
+
+web/sites/*/files/
+web/sites/*/settings.local.php
